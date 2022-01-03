@@ -3,7 +3,7 @@
 ### Overview
 WhatsApp Messenger Clone Web Application built with MongoDB, Express.js, React, Node.js (MERN) stack. 
 
-User authentication (Google SignIn) is achieved via Firebase. Pusher allows real-time updating of messages from MongoDB.
+User authentication (Google SignIn) is achieved via Firebase. Pusher allows real-time message updates from MongoDB.
 
 ![WhatsApp-Clone-Architecture-Diagram](https://user-images.githubusercontent.com/74390368/147897361-7663e9f9-d332-4909-8a9b-ea83f317505b.png)
 
